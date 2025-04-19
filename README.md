@@ -1,1 +1,1 @@
-# OpeTelemetry
+# OpenTelemetry
